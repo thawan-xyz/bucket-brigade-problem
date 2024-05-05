@@ -1,0 +1,23 @@
+# ninja log v5
+35	952	7366206527871407	CMakeFiles/bucket_brigade_problem.dir/main.cpp.obj	ab0385556fffb1ac
+954	1206	7366206530386892	bucket_brigade_problem.exe	80e579be5f441b8f
+12	389	7366206818159644	CMakeFiles/bucket_brigade_problem.dir/main.cpp.obj	ab0385556fffb1ac
+389	464	7366206818876251	bucket_brigade_problem.exe	80e579be5f441b8f
+7	383	7366208511160421	CMakeFiles/bucket_brigade_problem.dir/main.cpp.obj	ab0385556fffb1ac
+383	464	7366208511930866	bucket_brigade_problem.exe	80e579be5f441b8f
+12	381	7366208599901890	CMakeFiles/bucket_brigade_problem.dir/main.cpp.obj	ab0385556fffb1ac
+381	461	7366208600692035	bucket_brigade_problem.exe	80e579be5f441b8f
+6	378	7366211083726939	CMakeFiles/bucket_brigade_problem.dir/main.cpp.obj	ab0385556fffb1ac
+378	456	7366211084478039	bucket_brigade_problem.exe	80e579be5f441b8f
+15	411	7366213427149845	CMakeFiles/bucket_brigade_problem.dir/main.cpp.obj	ab0385556fffb1ac
+412	491	7366213427911508	bucket_brigade_problem.exe	80e579be5f441b8f
+7	384	7366215771597467	CMakeFiles/bucket_brigade_problem.dir/main.cpp.obj	ab0385556fffb1ac
+385	460	7366215772332685	bucket_brigade_problem.exe	80e579be5f441b8f
+13	375	7366215926398194	CMakeFiles/bucket_brigade_problem.dir/main.cpp.obj	ab0385556fffb1ac
+375	451	7366215927118752	bucket_brigade_problem.exe	80e579be5f441b8f
+7	410	7366216651935557	CMakeFiles/bucket_brigade_problem.dir/main.cpp.obj	ab0385556fffb1ac
+411	494	7366216652765850	bucket_brigade_problem.exe	80e579be5f441b8f
+12	382	7366216721086485	CMakeFiles/bucket_brigade_problem.dir/main.cpp.obj	ab0385556fffb1ac
+383	459	7366216721831639	bucket_brigade_problem.exe	80e579be5f441b8f
+13	409	7366220097563520	CMakeFiles/bucket_brigade_problem.dir/main.cpp.obj	ab0385556fffb1ac
+409	489	7366220098328667	bucket_brigade_problem.exe	80e579be5f441b8f

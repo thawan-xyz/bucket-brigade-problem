@@ -1,0 +1,3 @@
+C:/Users/Thawan/CLionProjects/bucket-brigade-problem/cmake-build-debug/CMakeFiles/bucket_brigade_problem.dir
+C:/Users/Thawan/CLionProjects/bucket-brigade-problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thawan/CLionProjects/bucket-brigade-problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
